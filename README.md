@@ -7,9 +7,9 @@ The school board has notified Maria and her supervisor that the students_complet
 
 This new assignment consists of two technical analysis deliverables and a written report to present your results. You will submit the following:
 
-Deliverable 1: Replace ninth-grade reading and math scores
-Deliverable 2: Repeat the school district analysis
-Deliverable 3: A written report for the school district analysis
+Deliverable 1: Replace ninth-grade reading and math scores\n
+Deliverable 2: Repeat the school district analysis\n
+Deliverable 3: A written report for the school district analysis\n
 
 Results:
 
